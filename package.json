@@ -1,0 +1,25 @@
+{
+  "name": "meadowlarktravel",
+  "version": "0.0.0",
+  "description": "chapter3 meadow lark example",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojaware/web_development_with_node_express_ch03.git"
+  },
+  
+  "author": "scott lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rojaware/web_development_with_node_express_ch03/issues"
+  },
+  "homepage": "https://github.com/rojaware/web_development_with_node_express_ch03#readme",
+  
+  "dependencies": {
+    "express": "~4.4.2",
+    "express3-handlebars": "~0.5.0"
+  }
+}
